@@ -1,5 +1,5 @@
 # Work_Samples
-Work product organized and streamlined
+Work product organized and streamlined, and resume
 
 #### In this repo you will find work samples organized in the following manner:
 
