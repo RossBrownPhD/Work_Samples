@@ -29,4 +29,7 @@ Work product organized and streamlined, and resume
 > -  Cross validation
 > -  Grid search
 
+#### 07_Client_Presentation_PowerPoint
+> Here's a pdf of the PowerPoint for a client presentation of a data science project
+
 #### More to come!
