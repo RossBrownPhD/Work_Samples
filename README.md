@@ -1,4 +1,6 @@
 # Work_Samples
+This is not updated. Please go to this blog for links to work samples:
+https://rossbrownphd.github.io/blog/
 Work product organized and streamlined, and resume
 
 #### In this repo you will find work samples organized in the following manner:
