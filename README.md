@@ -36,4 +36,8 @@ Work product organized and streamlined, and resume
 #### 07_Client_Presentation_PowerPoint
 > Here's a pdf of the PowerPoint for a client presentation of a data science project
 
+#### 08_NLP_nltk_and_vector_cosine_similarity_for_comparing_movie_reviewers_writing_style
+
+#### 09_Text_classification_via_naive_Bayes_logistic_regression_SVM_and_with/without_tf-idf_vectorization
+
 #### More to come!
